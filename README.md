@@ -15,12 +15,13 @@ it demonstrates object-oriented programming, repository pattern, and WinForms UI
 ---
 
 ## 📁 Project Structure
-AdExercize.sln # Solution file
+```AdExercize.sln # Solution file
 AdExercize/ # Project folder
 ├─ Entities/ # Data models (AdDetails, Category)
 ├─ Repos/ # Repository classes for data handling
 ├─ FormAdDetails.* # WinForms UI files
 └─ Program.cs # Application entry point
+```
 
 ---
 
